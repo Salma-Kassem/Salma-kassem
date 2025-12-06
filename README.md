@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">CS Student | AI & Machine Learning Enthusiast | Deep Learning, NLP & Computer Vision ,Digital image processing</p>
+<p align="left">CS Student | AI & Machine Learning Enthusiast | Deep Learning, NLP,Computer Vision &Digital image processing</p>
 
 ###
 
