@@ -60,6 +60,6 @@
 
 ###
 
-<h6 align="left">Exploring machine learning, deep learning, and AI applications. Focused on building strong ML foundations and real-world projects. Currently developing a Learning Management System enhanced with AI models for personalized learning, content recommendations, and performance analytics.</h6>
+<h5 align="left">Exploring machine learning, deep learning, and AI applications. Focused on building strong ML foundations and real-world projects. Currently developing a Learning Management System enhanced with AI models for personalized learning, content recommendations, and performance analytics.</h5>
 
 ###
